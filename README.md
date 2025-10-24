@@ -28,5 +28,6 @@ The main goal of this project is to display how visual data storytelling can be 
 
 📷 Preview
 
-Screenshot (97).png
+<img width="1336" height="749" alt="image" src="https://github.com/user-attachments/assets/4156d1ea-b444-4075-8efd-68315e2fc3a4" />
+
 
