@@ -28,5 +28,5 @@ The main goal of this project is to display how visual data storytelling can be 
 
 📷 Preview
 
-Power-Bi---Nike-air-Jordan-s-all-shoes-dashboard/blob/main/Screenshot%20(97).png
+Screenshot (97).png
 
