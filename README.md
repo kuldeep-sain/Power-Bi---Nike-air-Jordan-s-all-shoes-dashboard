@@ -27,5 +27,5 @@ Image URLs & Dataset – Containing shoe names, descriptions, and images
 The main goal of this project is to display how visual data storytelling can be enhanced with brand visuals (Nike Air Jordans) inside Power BI, providing an engaging experience beyond traditional charts.
 
 📷 Preview
+https://github.com/kuldeep-sain/Power-Bi---Nike-air-Jordan-s-all-shoes-dashboard/blob/main/Screenshot%20(97).png
 
-(Add your dashboard screenshot here — e.g., “/images/dashboard_preview.png”)
